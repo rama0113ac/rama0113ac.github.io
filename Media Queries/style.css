@@ -1,0 +1,42 @@
+@media screen and (max-width:480px
+) {
+    .largekitten{
+        display:none;
+    }
+
+    .gameslist li {
+        list-style: none;
+        border-bottom: 3px solid rgb(54, 6, 6);
+        padding: 10px;
+    }
+}
+
+@media screen and ( min-width:480px){
+    .smallkitten{
+        display: none;
+    }
+  
+}
+
+@media screen and ( min-width:800px){
+
+    .gameslist li {
+        border-right: 6px solid rgb(6, 206, 12);
+        padding: 10px;
+        float: left;
+        list-style: none;
+    }
+}
+
+
+@media screen and ( min-width:900px) and (max-width:1200px){
+h1{
+    font-size: 4rem;
+}
+}
+
+@media screen and ( min-width:1200px) {
+    h1{
+        font-size: 6rem;
+    }
+}
