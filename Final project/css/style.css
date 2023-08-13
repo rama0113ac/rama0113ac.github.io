@@ -1,0 +1,357 @@
+header {
+    background-color: #222;
+    width: 760px;
+    height: 1120px;
+}
+
+.topjpg {
+    height: 500px;
+    width: 720px;
+    margin: 24px 24px 0px 24px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+
+}
+
+nav ul li {
+    color: white;
+    display: block;
+    padding: 35px;
+    font-size: 26px;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+
+}
+
+.search {
+    font-size: 28px;
+    height: 56px;
+    width: 92%;
+    margin-left: 24px;
+}
+
+.container {
+    padding-top: 49px;
+    height: 720px;
+    width: 760px;
+    background-image: url(/images/mop.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.top{
+
+    background-color: rgba(27, 24, 24, 0.6);
+    height: 526px;
+    width: 760px;
+}
+
+.top h1 {
+    padding-top: 25px;
+    padding-left: 20px;
+    font-size: 90px;
+    color: white;
+}
+
+.top p {
+    color: white;
+    font-size: 24px;
+}
+
+.top button {
+    background-color: #c78c06;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 65px;
+    width: 25%;
+}
+
+#body-1 {
+    height: 1900px;
+    width: 100%;
+}
+
+.imp {
+    margin-top: 114px;
+    height: 4370px;
+    width: 760px;
+    display: grid;
+    grid-gap: 12px;
+}
+
+.box {
+    box-sizing: border-box;
+    height: 710px;
+    width: 760px;
+}
+
+.img {
+    padding: 10px 10px 10px 10px;
+    height: 600px;
+    width: 740px;
+}
+
+#div1 {
+    background-color: #ffe6ac;
+}
+
+#div1 h2 {
+    font-size: 40px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div1 p {
+    font-size: 20px;
+    padding: 0px 12px 0px 12px;
+}
+
+#h2 {
+    font-size: 42px;
+}
+
+#div2 {
+    height: 805px;
+}
+
+#div2 h2 {
+    font-size: 40px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div2 h3 {
+    font-size: 35px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div2 p {
+    font-size: 20px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div2 button {
+    color: white;
+    background-color: #222;
+    margin-left: 20px;
+    height: 64px;
+    width: 25%;
+}
+
+#div3 {
+    background-color: #ffe6ac;
+}
+
+#div3 h2 {
+    font-size: 40px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div3 h3 {
+    font-size: 38px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div3 p {
+    font-size: 20px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div3 button {
+    color: white;
+    background-color: #222;
+    margin-left: 20px;
+    height: 68px;
+    width: 25%;
+}
+
+
+#div4 {
+    background-color: #ffe6ac;
+}
+
+#div4 h2 {
+    font-size: 45px;
+    padding: 0px 10px 0px 10px;
+}
+
+#div4 h3 {
+    font-size: 38px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div4 p {
+    font-size: 20px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div4 button {
+    color: white;
+    background-color: #222;
+    margin-left: 20px;
+    height: 67px;
+    width: 25%;
+}
+
+#div5 {
+    background-color: #ffe6ac;
+}
+
+#div5 h2 {
+    font-size: 40px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div5 h3 {
+    font-size: 35px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div5 p {
+    font-size: 20px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div5 button {
+    color: white;
+    background-color: #222;
+    margin-left: 20px;
+    height: 65px;
+    width: 25%;
+}
+
+#div6 {
+    background-color: #ffe6ac;
+}
+
+#div6 h2 {
+    font-size: 40px;
+    padding: 0px 12px 0px 12px;
+}
+
+#div6 h3 {
+    font-size: 38px;
+    padding: 0px 10px 0px 10px;
+}
+
+#div6 p {
+    font-size: 20px;
+    padding: 0px 10px 0px 10px;
+}
+
+#div6 button {
+    color: white;
+    background-color: #222;
+    margin-left: 20px;
+    height: 64px;
+    width: 25%;
+}
+
+#vision {
+    height: 300px;
+    width: 760px;
+    background-image: url(/images/sea.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#vision h2 {
+    color: white;
+    font-size: 40px;
+    padding: 0px 12px 0px 12px;
+}
+
+#vision p {
+    color: white;
+    font-size: 20px;
+    padding: 0px 12px 0px 12px;
+}
+
+#vision button {
+    color: #222;
+    background-color: white;
+    margin-left: 20px;
+    height: 64px;
+    width: 25%;
+}
+
+#below {
+    padding-top: 290px;
+    height: 400px;
+    width: 750px;
+}
+
+#below h2 {
+    font-size: 40px;
+}
+
+#below img {
+    padding: 10px 10px 10px 10px;
+    height: 450px;
+    width: 750px;
+}
+
+#below h3 {
+    font-size: 30px;
+}
+
+#below h4 {
+    font-size: 25px;
+}
+
+#team1 {
+    background-color: #ffe6ac;
+}
+
+#team2 {
+    margin-top: 50px;
+    background-color: #ffe6ac;
+    ;
+}
+
+form {
+    margin-top: 1250px;
+}
+
+form div {
+    padding: 12px;
+}
+
+form input {
+    width: 544px;
+}
+
+form h2 {
+    font-size: 42px;
+}
+
+form h3 {
+    font-size: 26px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+#introduction{
+    margin-top: 32px;
+}
+
+#downest{
+    margin-top:20px;
+    height: 58px;
+    width: 760px;
+    background-color: #ffe6ac;
+}
