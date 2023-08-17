@@ -9,8 +9,8 @@ body {
 
 header {
     background-color: #222;
-    width: 761px;
-    height: 1100px;
+    width: 765px;
+    height: 1176px;
 }
 
 
@@ -20,22 +20,10 @@ header {
     
 }
 
-.topjpg {
-    height: 495px;
-    width: 720px;
-    margin: 24px 24px 0px 24px;
-}
-nav ul li {
-    color: white;
-    display: block;
-    padding: 32px;
-    font-size: 25px;
-
-}
 
 nav ul li a {
     text-decoration: none;
-
+    
 }
 
 .search {
@@ -47,18 +35,18 @@ nav ul li a {
 
 .vessel {
     padding-top: 47px;
-    height: 737px;
-    width: 760px;
-    background-image: url(/images/body-1.jpeg);
+    background-image: url(/images/photo8.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
+    height: 737px;
+    width: 760px;
 }
 
 .content {
-
+    
     background-color: rgba(27, 24, 24, 0.6);
-    height: 585px;
-    width: 760px;
+    height: 595px;
+    width: 766px;
 }
 
 .content h1 {
@@ -72,37 +60,49 @@ nav ul li a {
     color: white;
     font-size: 20px;
 }
+.topjpg {
+    height: 498px;
+    width: 736px;
+    margin: 28px 22px 0px 24px;
+}
+nav ul li {
+    color: white;
+    display: block;
+    padding: 37px;
+    font-size: 29px;
+
+}
 
 .content button {
+    height: 67px;
+    width: 25%;
     background-color: #c78c06;
     margin-left: 20px;
-    height: 64px;
-    width: 25%;
 }
 
 #body-1 {
-    height: 1900px;
+    height: 1960px;
     width: 100%;
 }
 
 .head {
-    margin-top: 33px;
-    height: 4365px;
+    margin-top: 36px;
+    height: 4389px;
     width: 760px;
     display: grid;
-    grid-gap: 10px;
+    grid-gap: 16px;
 }
 
 .box {
     box-sizing: border-box;
-    height: 730px;
-    width: 760px;
+    height: 737px;
+    width: 764px;
 }
 
 .img {
-    padding: 10px 10px 10px 10px;
-    height: 400px;
-    width: 740px;
+    padding: 12px 14px 11px 12px;
+    height: 420px;
+    width: 748px;
 }
 
 #div1 {
@@ -110,12 +110,12 @@ nav ul li a {
 }
 
 #div1 h2 {
-    font-size: 40px;
+    font-size: 44px;
     padding: 0px 10px 0px 10px;
 }
 
 #div1 p {
-    font-size: 20px;
+    font-size: 22px;
     padding: 0px 10px 0px 10px;
 }
 
@@ -125,7 +125,7 @@ nav ul li a {
 
 
 #dive2 {
-    font-size: 40px;
+    font-size: 45px;
     padding: 0px 10px 0px 10px;
 }
 
@@ -140,7 +140,7 @@ nav ul li a {
 }
 
 #div2 p {
-    font-size: 20px;
+    font-size: 28px;
     padding: 0px 10px 0px 10px;
 }
 
@@ -148,13 +148,19 @@ nav ul li a {
     color: white;
     background-color: #222;
     margin-left: 20px;
-    height: 64px;
+    height: 66px;
     width: 25%;
 }
 
 #div3 {
     background-color: #ffe6ac;
 }
+
+#div3 p {
+    font-size: 22px;
+    padding: 0px 10px 0px 10px;
+}
+
 
 #div3 h2 {
     font-size: 40px;
@@ -165,12 +171,6 @@ nav ul li a {
     font-size: 35px;
     padding: 0px 10px 0px 10px;
 }
-
-#div3 p {
-    font-size: 22px;
-    padding: 0px 10px 0px 10px;
-}
-
 #div3 button {
     color: white;
     background-color: #222;
@@ -185,7 +185,7 @@ nav ul li a {
 }
 
 #div4 h2 {
-    font-size: 40px;
+    font-size: 42px;
     padding: 0px 10px 0px 10px;
 }
 
@@ -264,7 +264,7 @@ nav ul li a {
 #mid {
     height: 300px;
     width: 763px;
-    background-image: url(/images/sea.jpeg);
+    background-image: url(/images/photo9.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -293,11 +293,17 @@ nav ul li a {
 #down {
     padding-top: 10px;
     height: 403px;
-    width: 761px;
+    width: 771px;
+}
+
+
+
+#down h4 {
+    font-size: 25px;
 }
 
 #down h2 {
-    margin-top: 200px;
+    margin-top: 220px;
     font-size: 40px;
 }
 
@@ -309,10 +315,6 @@ nav ul li a {
 
 #down h3 {
     font-size: 31px;
-}
-
-#down h4 {
-    font-size: 25px;
 }
 
 #man {
@@ -330,25 +332,25 @@ form {
 }
 
 #form-div{
-    width: 560px;
+    width: 567px;
 }
 #frame{
-    width: 550px;
+    width: 569px;
 }
 form div {
     padding: 10px;
 }
 
 form input {
-    width: 544px;
+    width: 564px;
 }
 
 form h2 {
-    font-size: 42px;
+    font-size: 45px;
 }
 
 form h3 {
-    font-size: 26px;
+    font-size: 28px;
 }
 
 table {
@@ -358,7 +360,7 @@ table {
 
 th,
 td {
-    border: 1px solid black;
+    border: 3px solid black;
     padding: 8px;
     text-align: left;
 }
@@ -368,8 +370,8 @@ td {
 }
 
 #lowest {
-    margin-top: 20px;
-    height: 50px;
+    margin-top: 22px;
+    height: 56px;
     width: 760px;
     background-color: #ffe6ac;
 }
@@ -380,6 +382,14 @@ td {
         ;
     }
 
+    
+    .topjpg {
+        display: inline;
+        height: 102px;
+        width: 121px;
+        margin: 45px 39px 0px 91px;
+    }
+    
     header {
         background-color: #222;
         display: flex;
@@ -387,18 +397,29 @@ td {
         width: 1200px;
         height: 200px;
     }
-
-    .topjpg {
-        display: inline;
-        height: 102px;
-        width: 121px;
-        margin: 45px 39px 0px 91px;
-    }
-
     .navigation {
         display: inline-block;
-        margin: 40px 0px 0px 0px;
+        margin: 53px 13px 11px 0px;
 
+    }
+
+   
+
+    .vessel {
+        padding-top: 47px;
+        height: 737px;
+        width: 1200px;
+        background-image: url(/images/photo8.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .content {
+
+        background-color: rgba(27, 24, 24, 0.6);
+        height: 586px;
+        width: 1101px;
+        margin: 0px 0px 0px 59px;
     }
 
     nav ul li {
@@ -417,40 +438,35 @@ td {
 
     .search {
         display: inline-block;
-        font-size: 28px;
-        height: 55px;
+        font-size: 24px;
+        height: 59px;
         width: 15%;
-        margin-left: 24px;
-        margin-top: 65px;
+        margin-left: 32px;
+        margin-top: 62px;
     }
-
-    .vessel {
-        padding-top: 47px;
-        height: 737px;
+    
+    .box {
+        height: 731px;
         width: 1200px;
-        background-image: url(/images/body-1.jpeg);
-        background-size: cover;
-        background-repeat: no-repeat;
     }
-
-    .content {
-
-        background-color: rgba(27, 24, 24, 0.6);
-        height: 586px;
-        width: 1101px;
-        margin: 0px 0px 0px 59px;
+    
+    .img {
+        
+        padding: 0px 0px 0px 0px;
+        height: 258px;
+        width: 348px;
     }
 
     .content h1 {
         padding-top: 25px;
-        padding-left: 20px;
-        font-size: 93px;
+        padding-left: 26px;
+        font-size: 96px;
         color: white;
     }
 
     .content p {
         color: white;
-        font-size: 21px;
+        font-size: 28px;
     }
 
     .content button {
@@ -458,19 +474,6 @@ td {
         margin-left: 20px;
         height: 62px;
         width: 25%;
-    }
-
-
-    .box {
-        height: 731px;
-        width: 1200px;
-    }
-
-    .img {
-
-        padding: 0px 0px 0px 0px;
-        height: 250px;
-        width: 330px;
     }
 
     #div1 {
@@ -482,7 +485,7 @@ td {
     #div1 img {
         padding: 10px 10px 10px 71px;
         height: 250px;
-        width: 500px;
+        width: 520px;
         float: left;
     }
 
@@ -496,7 +499,7 @@ td {
     #div1 p {
 
         text-align: justify;
-        font-size: 20px;
+        font-size: 23px;
         padding: 14px 10px 0px 11px;
     }
 
@@ -548,10 +551,10 @@ td {
 
     #div2 button {
         color: white;
+        margin-left: 22px;
+        height: 74px;
         background-color: #222;
-        margin-left: 20px;
-        height: 64px;
-        width: 25%;
+        width: 37%;
     }
 
     #div3 {
@@ -559,61 +562,60 @@ td {
         grid-row-end: 5;
         grid-column-start: 4;
         grid-column-end: 7;
-        border: 2px solid black;
         background-color: #ffe6ac;
         height: 582px;
         width: 552px;
     }
-
-    #div3 .img {
-
-        padding: 0px 0px 0px 0px;
-        height: 251px;
-        width: 552px;
-    }
-
-    #div3 h2 {
-        font-size: 41px;
-        padding: 0px 10px 0px 10px;
-    }
-
-    #div3 h3 {
-        font-size: 35px;
-        padding: 0px 10px 0px 10px;
-    }
-
+    
     #div3 p {
         font-size: 20px;
         padding: 0px 10px 0px 10px;
     }
-
+    
     #div3 button {
         color: white;
         background-color: #222;
         margin-left: 20px;
-        height: 62px;
-        width: 25%;
+        height: 67px;
+        width: 33%;
     }
-
+    
+    
+        #div3 .img {
+    
+            padding: 0px 0px 0px 0px;
+            height: 251px;
+            width: 552px;
+        }
+    
+        #div3 h2 {
+            font-size: 43px;
+            padding: 0px 10px 0px 10px;
+        }
+    
+        #div3 h3 {
+            font-size: 35px;
+            padding: 0px 10px 0px 10px;
+        }
 
     #div4 {
         border: 1px solid black;
         background-color: #ffe6ac;
         grid-row-start: 5;
         grid-row-end: 8;
-        grid-column-start: 1;
-        grid-column-end: 3;
         width: 330px;
         height: 615px;
+        grid-column-start: 1;
+        grid-column-end: 3;
     }
 
     #div4 h2 {
         font-size: 40px;
-        padding: 0px 10px 0px 10px;
+        padding: 0px 13px 0px 12px;
     }
 
     #div4 h3 {
-        font-size: 35px;
+        font-size: 39px;
         padding: 0px 10px 0px 10px;
     }
 
@@ -642,26 +644,26 @@ td {
     }
 
     #div5 h2 {
-        font-size: 40px;
+        font-size: 42px;
         padding: 0px 10px 0px 10px;
     }
 
     #div5 h3 {
-        font-size: 32px;
+        font-size: 31px;
         padding: 0px 10px 0px 10px;
     }
 
     #div5 p {
-        font-size: 20px;
+        font-size: 24px;
         padding: 0px 10px 0px 10px;
     }
 
     #div5 button {
         color: white;
-        background-color: #222;
         margin-left: 20px;
         height: 64px;
         width: 25%;
+        background-color: #222;
     }
 
     #div6 {
@@ -671,12 +673,12 @@ td {
         grid-column-end: 7;
         grid-row-start: 5;
         grid-row-end: 8;
-        width: 330px;
-        height: 616px;
+        width: 335px;
+        height: 610px;
     }
 
     #div6 h2 {
-        font-size: 42px;
+        font-size: 40px;
         padding: 0px 10px 0px 10px;
     }
 
@@ -686,22 +688,22 @@ td {
     }
 
     #div6 p {
-        font-size: 22px;
+        font-size: 23px;
         padding: 0px 10px 0px 10px;
     }
 
     #div6 button {
         color: white;
         background-color: #222;
-        margin-left: 20px;
-        height: 64px;
+        margin-left: 23px;
+        height: 67px;
         width: 25%;
     }
 
     #mid {
         height: 300px;
         width: 1200px;
-        background-image: url(/images/sea.jpeg);
+        background-image: url(/images/photo9.jpeg);
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -721,23 +723,23 @@ td {
     #mid button {
         color: #222;
         background-color: white;
-        margin-top: 32px;
+        margin-top: 36px;
         margin-left: 20px;
-        height: 62px;
+        height: 64px;
         width: 25%;
     }
 
+    
+    #down h2 {
+        margin-top: 12px;
+        font-size: 42px;
+    }
+    
     #down {
         padding-top: 10px;
         height: 400px;
         width: 760px;
     }
-
-    #down h2 {
-        margin-top: 10px;
-        font-size: 40px;
-    }
-
     #down img {
         padding: 0px 10px 10px 10px;
         height: 452px;
@@ -752,46 +754,45 @@ td {
         font-size: 26px;
     }
 
-    #man {
+    #team {
         background-color: #ffe6ac;
         box-sizing: border-box;
         height: 500px;
         width: 1200px;
     }
 
-    #man img {
+    #team img {
         float: left;
         height: 502px;
         width: 603px;
     }
 
-    #man h3 {
+    #team h3 {
         text-align: justify;
     }
 
-    #man h4 {
+    #team h4 {
         text-align: justify;
     }
 
-    #man p {
+    #team p {
         text-align: justify;
     }
 
-    #man2 {
-        background-color: #ffe6ac;
+    #team2 {
         box-sizing: border-box;
-        height: 503px;
+        height: 513px;
         width: 1200px;
     }
 
-    #man2 img {
+    #team2 img {
         float: right;
         height: 500px;
         width: 600px;
     }
 
     form {
-        margin-top: 11px;
+        margin-top: 13px;
         float: left;
     }
 
@@ -802,11 +803,11 @@ td {
     #form-div{
         margin-top: 12px;
         float: right;
-        width: 552px;
+        width: 562px;
     }
 
     form input {
-        width: 542px;
+        width: 548px;
     }
 
     form h2 {
@@ -824,8 +825,7 @@ td {
 
     th,
     td {
-        border: 2px solid black;
-        padding: 9px;
+        padding: 14px;
         text-align: left;
 
     }
@@ -836,18 +836,8 @@ td {
 
     #lowest {
         margin-top: 20px;
-        height: 50px;
+        height: 40px;
         width: 1200px;
-        background-color: #ffe6ac;
-    }
-
-    #days {
-        
-        background-color: #ffe6ac;
-    }
-
-    #hours{
-        background-color: #ffe6ac;
     }
 
 }
